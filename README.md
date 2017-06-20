@@ -1,7 +1,7 @@
-##Aegisub merger
+## Aegisub merger
 Implementation of Aegisub files(.ass) merging program.
 
-##How to use
+## How to use
 Use option `--folder` or `--files` to supecify which files to merge.
 When you use `--folder` option, all files inside the folder will be merged.
 Use `--output` to specify the name of output file. (default is merged\_subtitle.ass)
