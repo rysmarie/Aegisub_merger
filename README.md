@@ -26,7 +26,7 @@ subtitle 3
 
 Subtitles will be sorted by time.
 
-###Example
+### Example
 If you want to merge subtitle1.ass and subtitle2.ass, run the program as follows:
 ```
 python merging_ass.py --files subtitle1.ass subtitle2.ass
